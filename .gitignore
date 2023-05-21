@@ -1,0 +1,35 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# Environment and package files
+venv/
+*.venv
+env/
+*.env
+ENV/
+*.ENV
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+
+# SQLite database file
+*.db
+
+# CSV, Excel, and other data files
+*.csv
+*.xls
+*.xlsx
+*.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
