@@ -33,3 +33,5 @@ config.json
 .DS_Store
 Thumbs.db
 
+# Config Files
+config.py
