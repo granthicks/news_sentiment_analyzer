@@ -27,7 +27,7 @@ build/
 *.csv
 *.xls
 *.xlsx
-*.json
+config.json
 
 # OS generated files
 .DS_Store
